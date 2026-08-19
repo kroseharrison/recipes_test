@@ -1,2 +1,3 @@
-# recipes_test
-Github Posit Interfacing Test
+# Repository for recipes
+Favorite recipes of summer 2026
+## Delicious ingredients
